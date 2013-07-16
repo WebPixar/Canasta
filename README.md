@@ -14,7 +14,7 @@ Create the main executable and testsuite executable.
 Runs the main program.  
 
     $ testsuit
-Runs the test program, which verifie's the classes work.  
+Runs the test program, which verifies the classes work.  
 
     $ make clean
 Rebuild everything  
@@ -38,4 +38,4 @@ The main file for the test suit, `testsuit.cpp`, calls the following files:
 * `testdeck.cpp`
     * Tests the deck class.
 * `testplayer.cpp` 
-    * Tests the player clas.
+    * Tests the player class.
